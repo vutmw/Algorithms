@@ -2,7 +2,7 @@ package com.vtmw.algorithms;
 
 import java.util.*;
 
-//Dijkstra's Algorithm using Priority Queue
+//Dijkstra's Algorithm using Priority Queue --> weighted acyclic undirected graph
 public class Dijkstra {
 	
 	private int N; // number of nodes of the graph
